@@ -1,0 +1,20 @@
+c:\users\hamza\source\repos\SnakeLader\SnakeLader\bin\Debug\SnakeLader.exe.config
+c:\users\hamza\source\repos\SnakeLader\SnakeLader\bin\Debug\SnakeLader.exe
+c:\users\hamza\source\repos\SnakeLader\SnakeLader\bin\Debug\SnakeLader.pdb
+c:\users\hamza\source\repos\SnakeLader\SnakeLader\obj\Debug\SnakeLader.Form1.resources
+c:\users\hamza\source\repos\SnakeLader\SnakeLader\obj\Debug\SnakeLader.Properties.Resources.resources
+c:\users\hamza\source\repos\SnakeLader\SnakeLader\obj\Debug\SnakeLader.csproj.GenerateResource.cache
+c:\users\hamza\source\repos\SnakeLader\SnakeLader\obj\Debug\SnakeLader.csproj.CoreCompileInputs.cache
+c:\users\hamza\source\repos\SnakeLader\SnakeLader\obj\Debug\SnakeLader.exe
+c:\users\hamza\source\repos\SnakeLader\SnakeLader\obj\Debug\SnakeLader.pdb
+c:\users\hamza\source\repos\SnakeLader\SnakeLader\obj\Debug\SnakeLader.csprojAssemblyReference.cache
+G:\Study\Practice Program\#Window_Form\SnakeLader\SnakeLader\bin\Debug\SnakeLader.exe.config
+G:\Study\Practice Program\#Window_Form\SnakeLader\SnakeLader\bin\Debug\SnakeLader.exe
+G:\Study\Practice Program\#Window_Form\SnakeLader\SnakeLader\bin\Debug\SnakeLader.pdb
+G:\Study\Practice Program\#Window_Form\SnakeLader\SnakeLader\obj\Debug\SnakeLader.csprojAssemblyReference.cache
+G:\Study\Practice Program\#Window_Form\SnakeLader\SnakeLader\obj\Debug\SnakeLader.Form1.resources
+G:\Study\Practice Program\#Window_Form\SnakeLader\SnakeLader\obj\Debug\SnakeLader.Properties.Resources.resources
+G:\Study\Practice Program\#Window_Form\SnakeLader\SnakeLader\obj\Debug\SnakeLader.csproj.GenerateResource.cache
+G:\Study\Practice Program\#Window_Form\SnakeLader\SnakeLader\obj\Debug\SnakeLader.csproj.CoreCompileInputs.cache
+G:\Study\Practice Program\#Window_Form\SnakeLader\SnakeLader\obj\Debug\SnakeLader.exe
+G:\Study\Practice Program\#Window_Form\SnakeLader\SnakeLader\obj\Debug\SnakeLader.pdb

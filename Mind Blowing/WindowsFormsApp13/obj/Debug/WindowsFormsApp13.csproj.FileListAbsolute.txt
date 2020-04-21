@@ -1,0 +1,136 @@
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csprojAssemblyReference.cache
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.End.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.EndGame.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form1.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form2.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form3.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form4.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.loading.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.theend.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form5.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.ldi.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Result.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form6.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.GameOver.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.lod.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form7.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.ended.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.lding.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.LastStep.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.nld.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.lood.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.winer.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form8.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form9.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.looding.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.winername.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form10.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.ldin.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.winn.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form11.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.lodding.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.winname.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.hamza.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.lodingbar.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.lodiing.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.zeeshan.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.farhan.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.loooo.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.atif.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.looddinng.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form12.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form13.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.lldd.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.RizwanSb.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.arustoki.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form14.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.zeeshansayen.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.ansari.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.ansariwiner.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.lpc.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.hamzawiner.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Loadingis.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.makingbar.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.rizwanbhai.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Lodingkas.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.hamzalover.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.laoding.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Winner.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.About.resources
+C:\Users\Hamza\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.HowPlay.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csprojAssemblyReference.cache
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.About.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.ansari.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.ansariwiner.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.arustoki.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.atif.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.End.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.ended.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.EndGame.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.farhan.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form1.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form10.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form11.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form12.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form13.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form14.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form2.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form3.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form4.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form5.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form6.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form7.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form8.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form9.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.GameOver.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.hamza.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.hamzalover.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.hamzawiner.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.HowPlay.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.laoding.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.LastStep.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.ldi.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.ldin.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.lding.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.lldd.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.loading.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Loadingis.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.lod.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.lodding.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.lodiing.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.lodingbar.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Lodingkas.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.lood.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.looddinng.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.looding.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.loooo.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.lpc.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.makingbar.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.nld.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Result.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.rizwanbhai.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.RizwanSb.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.theend.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.winer.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.winername.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.winn.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.winname.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Winner.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.zeeshan.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.zeeshansayen.resources
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+G:\Study\Practice Program\#Window_Form\Mind Blowing\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb

@@ -1,0 +1,19 @@
+C:\Users\Ansari\source\repos\Volume\Volume\bin\Debug\Volume.exe.config
+C:\Users\Ansari\source\repos\Volume\Volume\bin\Debug\Volume.exe
+C:\Users\Ansari\source\repos\Volume\Volume\bin\Debug\Volume.pdb
+C:\Users\Ansari\source\repos\Volume\Volume\obj\Debug\Volume.csprojResolveAssemblyReference.cache
+C:\Users\Ansari\source\repos\Volume\Volume\obj\Debug\Volume.Form1.resources
+C:\Users\Ansari\source\repos\Volume\Volume\obj\Debug\Volume.Properties.Resources.resources
+C:\Users\Ansari\source\repos\Volume\Volume\obj\Debug\Volume.csproj.GenerateResource.cache
+C:\Users\Ansari\source\repos\Volume\Volume\obj\Debug\Volume.csproj.CoreCompileInputs.cache
+C:\Users\Ansari\source\repos\Volume\Volume\obj\Debug\Volume.exe
+C:\Users\Ansari\source\repos\Volume\Volume\obj\Debug\Volume.pdb
+F:\Study\Practice Program\#Window_Form\Islamic Counter\Volume\bin\Debug\Volume.exe.config
+F:\Study\Practice Program\#Window_Form\Islamic Counter\Volume\bin\Debug\Volume.exe
+F:\Study\Practice Program\#Window_Form\Islamic Counter\Volume\bin\Debug\Volume.pdb
+F:\Study\Practice Program\#Window_Form\Islamic Counter\Volume\obj\Debug\Volume.Form1.resources
+F:\Study\Practice Program\#Window_Form\Islamic Counter\Volume\obj\Debug\Volume.Properties.Resources.resources
+F:\Study\Practice Program\#Window_Form\Islamic Counter\Volume\obj\Debug\Volume.csproj.GenerateResource.cache
+F:\Study\Practice Program\#Window_Form\Islamic Counter\Volume\obj\Debug\Volume.csproj.CoreCompileInputs.cache
+F:\Study\Practice Program\#Window_Form\Islamic Counter\Volume\obj\Debug\Volume.exe
+F:\Study\Practice Program\#Window_Form\Islamic Counter\Volume\obj\Debug\Volume.pdb
